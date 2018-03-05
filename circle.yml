@@ -2,7 +2,7 @@ deployment:
   prod:
     branch: master
     heroku:
-      appname: git.heroku.com/kjcircleci.git
+      appname: kjcircleci
 machine:
   node:
     version: 8.1.4
